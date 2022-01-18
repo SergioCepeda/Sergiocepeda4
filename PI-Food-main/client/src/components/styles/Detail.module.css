@@ -1,0 +1,94 @@
+.component{
+    height: auto;
+}
+
+  
+  .createButton{
+    padding: 5px;
+    margin: 5px;
+    width: 200px;
+    font-size: large;
+    border-radius: 5px;
+    border: 2px solid rgb(28, 189, 230);
+    background-color: rgb(11, 126, 235);
+    color: rgb(234, 241, 241);
+    text-decoration: none;
+    cursor: pointer;
+    transition-duration: 0.4s;
+}
+
+.cardRead {
+    cursor: pointer;
+    font-size: 14px;
+    font-weight: 100;
+    letter-spacing: 6px;
+    margin: 5px 0 20px;
+    position: relative;
+    text-align: right;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: rgb(250, 249, 249);
+  }
+  
+.title{
+    color: rgb(243, 12, 12);
+    font-family: 'Droid serif', serif; 
+    font-size: 25px; 
+    font-weight: 200; 
+    font-style: italic; 
+    line-height: 44px; 
+    margin: 10px 12px;
+    padding: 10px 12px; 
+    text-align: center;
+}
+
+.imgContainer{
+    float: left;
+    margin: 12px;
+    padding: 20px;
+}
+
+.img{
+    border-radius: 100px;
+
+}
+
+.detailContainer{
+    margin: 12px;
+    padding: 5px;
+    border: 3px solid rgb(15, 105, 223);
+    border-radius: 25px;
+}
+.h3{
+    color: rgb(241, 41, 14);
+    font-family: 'Droid serif', serif; 
+    font-size: 24px; 
+    font-weight: 200; 
+    font-style: italic; 
+    line-height: 44px; 
+    margin: 10px 12px;
+    padding: 10px 12px; 
+}
+
+.p{
+    display: contents;
+    color: #1818c4; 
+    font-size: 19px; 
+    font-family: "Libre Baskerville", serif; 
+    line-height: 45px; 
+    text-align: center; 
+    text-shadow: 0 1px 1px #fff; 
+    padding: 20px; 
+}
+
+.li{
+    color: rgb(243, 12, 12);
+    font-family: 'Droid serif', serif; 
+    font-size: 25px; 
+    font-weight: 200; 
+    font-style: italic; 
+    line-height: 44px; 
+    margin: 10px 12px;
+    padding: 10px 12px; 
+    text-align: center;
+}

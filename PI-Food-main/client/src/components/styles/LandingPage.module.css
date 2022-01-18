@@ -1,0 +1,36 @@
+.landing {
+    margin: 0%;
+    background-image: url(../pics/fondo_pantalla_landing.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    width: 100vw;
+    
+}
+
+.h1 { 
+    color: #0e74d3; font-family: 'Droid serif', serif; font-size:  50px; font-weight: 500; 
+    font-style: italic; line-height: 44px; margin: 0 0 12px; text-align: left;
+    position: relative; left:13em; top:3em; right:20
+}
+.link {
+    padding: 20px;
+    list-style-type: none;
+}
+.button {
+    font-size: 25px;
+    width: 10em;
+    height: 2em;
+    color: rgb(12, 5, 4);
+    border-left: 0.08em solid;
+    position: relative;
+    margin-top: 7em;
+    cursor: pointer;
+}
+
+
+.button:hover  {
+   color:rgb(247, 246, 244);
+   background-color: rgb(21, 153, 230);
+}

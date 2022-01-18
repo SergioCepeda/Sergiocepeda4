@@ -1,0 +1,38 @@
+
+.input {
+    width: 20%;
+    display: center;
+    padding: 6px;
+    background-color:mistyrose;
+    border: 2.5px solid rgb(6, 157, 228);
+    color: #111;
+    font-size: 15px;
+    height: 12px;
+    font-family: 'Helvetica';
+    letter-spacing: 2.5px;
+    text-transform: camelcase;
+  }
+  
+  
+  
+
+
+.buttonSearch{
+    padding: 5px;
+    margin: 5px;
+    width: 100px;
+    font-size: large;
+    border-radius: 5px;
+    border: 2px solid #d3312b;
+    background-color: transparent;
+    color: #e93e20;
+    text-decoration: none;
+    cursor: pointer;
+    transition-duration: 0.4s;
+}
+
+.buttonSearch:hover{
+    background-color: #12b0e0;
+    color: white;
+    border: 2px solid #06a6f0
+}
