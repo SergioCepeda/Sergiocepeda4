@@ -1,8 +1,7 @@
 Proyecto Individual Food.
 
 
-
-![portada](https://user-images.githubusercontent.com/87606197/153528960-6e7d9a7f-5367-4df3-ba42-ba988009c99e.jpg)
+[![Alt text](https://img.youtube.com/vi/jmUakQ7XQiY/0.jpg)](https://www.youtube.com/watch?v=jmUakQ7XQiY)
 
 
 Hola red, hoy quiero compartir el proyecto individual que estuve realizando en el Bootcamp soyhenry 
